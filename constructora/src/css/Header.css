@@ -1,0 +1,19 @@
+.header {
+    box-sizing: border-box;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+    padding: 1em;
+   
+    background-color: #B46060;
+    color: #fff;
+    margin: 0%;
+}
+
+h1{
+   color: #FFF4E0;
+   font-family: 'Plus Jakarta Sans', sans-serif;
+    font-size: 4em;
+
+}
