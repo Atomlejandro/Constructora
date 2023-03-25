@@ -1,6 +1,6 @@
 import React from 'react';
 import '../css/somos.css'
-const Somos = () => {
+const somos = () => {
     return (
         <div className="somos">
             <h1 className='quienes'>
@@ -11,5 +11,5 @@ const Somos = () => {
     );
 }
 
-export default Somos;
+export default somos;
 

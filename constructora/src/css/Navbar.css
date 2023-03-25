@@ -4,9 +4,9 @@ nav {
     align-items: center;
     background-color: #a05602;
     color: #FFF;
-    padding: 1rem;
+    padding: 0.5rem;
     font-family: 'Plus Jakarta Sans', sans-serif;
-    font-size: 1.5em;
+    font-size: 1rem;
 }
 
 ul {
@@ -17,11 +17,15 @@ ul {
 }
 
 li {
-    margin-left: 1.5rem;
+    margin-left: 2rem;
 }
 
 li:first-child{
     margin-left:0;
+}
+
+li:last-child{
+    margin-right: 0.5rem;
 }
 
 a{
@@ -34,7 +38,7 @@ a:hover {
 }
 
 .logo {
-    height: 70px;
+    height: 50px;
     width: auto;
     margin-right: 1rem;
 }
@@ -43,7 +47,7 @@ a:hover {
     nav {
         flex-direction: column;
         align-items: flex-start;
-        padding: 1rem;
+        padding: 0.5rem;
     }
 
     .logo {
