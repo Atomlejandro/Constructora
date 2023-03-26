@@ -7,6 +7,11 @@ nav {
     padding: 0.5rem;
     font-family: 'Plus Jakarta Sans', sans-serif;
     font-size: 1rem;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 9999;
 }
 
 ul {
@@ -25,7 +30,7 @@ li:first-child{
 }
 
 li:last-child{
-    margin-right: 0.5rem;
+    margin-right: 1.5rem;
 }
 
 a{

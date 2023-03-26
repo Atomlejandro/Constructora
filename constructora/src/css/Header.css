@@ -4,8 +4,7 @@
     display: flex;
     justify-content: center;
     align-items: baseline;
-    padding: 1em;
-   
+    padding: 5em 1em 1em; 
     background-color: #B46060;
     color: #fff;
     margin: 0%;
